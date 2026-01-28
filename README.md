@@ -1,4 +1,4 @@
-# FA-Association: Feature Aggregation-Based Multi-Drone Multi-Target Association Under Densely Distributed Similar Targets
+# FA-Association: Feature Aggregation-Based Multi-Drone Multi-Target Association Under Densely Distributed Similar Targets （多无人多目标关联）
 
 This repository contains the official implementation of **FA-Ass**, a feature aggregation-based framework for cross-view target association in multi-device tracking scenarios.
 
